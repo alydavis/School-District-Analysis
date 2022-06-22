@@ -16,30 +16,32 @@ Removing the Thomas High School (THS) 9th grade students hardly impacted the dis
 ### How is the school summary affected?
 - Original School Summary ![Original_School_Summary](Images/Original_School_Summary.png)
 - Updated School Summary ![Updated_School_Summary](Images/Updated_Top_School_Summary.png).
-The school summary shows much more changes in the analysis. There was a slight decrease in the average math score, while the average reading score slightly increased. However, the percentage passing math, reading, and overall passing percentage dropped significantly.
+The school summary shows more changes in the analysis. There was a slight decrease in the average math score, while the average reading score slightly increased. However, the percentage passing math, reading, and overall passing percentage dropped significantly.
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-With the original analysis, Thomas High School was ranked 2nd based on overall % passing metrics. After the second analysis, removing 9th grade reading and math scores, THS dropped in ranking down to (XXXX).
+With the original analysis, Thomas High School was ranked 2nd based on overall % passing metrics. After the second analysis, removing 9th grade reading and math scores, THS dropped in ranking down to the eighth position.
 
 ### How does replacing the ninth-grade scores affect the following:
   - #### Math and reading scores by grade
-    - Original Math and Reading Scores
-    - Updated Math and Reading Scores
-    - Analysis
+    - Original Math Scores ![Original Math Scores](Images/Original_Math_Score_By_Grade.png)
+    - Original Reading Scores ![Original Reading Score](Images/Original_Reading_Score_By_Grade.png)
+    - Updated Math Scores ![Updated Math Scores](Images/Updated_Math_Score_By_Grade.png)
+    - Updated Reading Scores ![Updated Reading Scores](Images/Updated_Reading_Scores_By_Grade.png)
+    - The two updated screenshots confirm the 9th grade math and reading scores have been replaced with NaNs.
     
   - #### Scores by school spending
-    - Original Scores by School Spending
-    - Updated Scores by School Spending
+    - Original Scores by School Spending ![Original_Spend](Images/Original_Score_By_Spend.png)
+    - Updated Scores by School Spending ![Updated_Spend](Images/Updated_Score_By_Spend.png)
     - THS spends $638 per student, and therefore falls in the $631-645 bin of bucket spending.
     
   - #### Scores by school size
-    - Original Scores by School Size
-    - Updated Scores by School Spending
+    - Original Scores by School Size ![Original_Size](Images/Original_Score_By_Size.png)
+    - Updated Scores by School Spending ![Updated Size](Images/Updated_Score_By_Size.png)
     - THS with a size of 1,635 students, and therefore falls in the medium bin of school size.
    
   - #### Scores by school type
-    - Original Scores by School Type
-    - Updated Scores by School Type
+    - Original Scores by School Type ![Original_Type](Images/Original_Score_By_Type.png)
+    - Updated Scores by School Type ![Updated_Type](Images/Updated_Score_By_Type.png)
     - THS is a charter school.
 
 ## Summary

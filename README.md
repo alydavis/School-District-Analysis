@@ -45,8 +45,8 @@ With the original analysis, Thomas High School was ranked 2nd based on overall %
     - THS is a charter school.
 
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-- 1
-- 2
-- 3
-- 4
+After reading and math scores for the ninth grade at Thomas High School were replaced with NaNs:
+1. The overall passing rate for THS dropped more than 25%.
+2. THS dropped in rank from 2nd to 8th in the school district.
+3. And reporting done by the grade level will show "NaN" for the 9th graders at THS.
+4. The most noticeable changes were at the school level analysis, rather than the district level.

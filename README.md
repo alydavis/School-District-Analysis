@@ -1,10 +1,10 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Overview
-A school board requested an analysis of local high schools. The data set included reading and math schools for high school students at a variety of school types including District and Charter schools of varying, sizes, and budgets. The primary measure of the schools success was math and reading scores. 
+A school board requested an analysis of local high schools. The primary measure of a school's success was math and reading scores to inform high and low performing schools, and compare average scores by grade, school spending, student population size, and school type.
 
 ## Process
-After the initial [analysis](PyCitySchools.ipynb) was complete, the school board was notified of academic dishonesty for 9th grade reading and math at Thomas High School (THS). The scores of the dishonest grades at THS needed to be replace the scores with NaNs and repeat the data analysis. The results below compare the original analysis to the [new analysis](PyCitySchools_Challenge.ipynb) to describe the impact of these fradulent grades.
+An initial [analysis](PyCitySchools.ipynb) was completed with the Pandas Library in Jupyter notebooks. I merged the supplied raw school and student .csv data, inspected and cleansed the data, and sorted, grouped, and summarized the data into dataframes. After the initial analysis was complete, the school board was notified of academic dishonesty for 9th grade reading and math at Thomas High School (THS). I replaced the scores of the dishonest grades at THS and updated the data analysis. The results below compare the original analysis to the [new analysis](PyCitySchools_Challenge.ipynb) to show the impact of these fradulent grades.
 
 ## Results
 - How is the district summary affected?

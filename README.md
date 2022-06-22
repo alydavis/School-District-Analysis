@@ -8,9 +8,10 @@ An [original analysis](PyCitySchools.ipynb) was completed with the Pandas Librar
 
 ## Results
 ### How is the district summary affected?
-- Original District Summary
-- Updated District Summary
-- The impact of THS 9th grade students (about X number of XX total students) hardly impacted the overall district analysis. 
+Original District Summary ![Original District Summary](Resources/Images/Original_District_Summary.png)
+
+Updated District Summary ![Updated District Summary](Resources/Images/Updated_District_Summary.png)
+Removing the Thomas High School (THS) 9th grade students hardly impacted the district analysis. There were changes to score averages in the tenths of percents. This is not surprising as this subset of data was only 461 of 39170 total students across all schools.
   
 ### How is the school summary affected?
 - Original School Summary

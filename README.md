@@ -15,7 +15,7 @@ Removing the Thomas High School (THS) 9th grade students hardly impacted the dis
   
 ### How is the school summary affected?
 - Original School Summary ![Original_School_Summary](Images/Original_School_Summary.png)
-- Updated School Summary ![Updated_School_Summary](Images/Updated_Top_School_Summary.png).
+- Updated School Summary ![Updated_School_Summary](Images/Updated_Top_School_Summary.png)
 The school summary shows more changes in the analysis. There was a slight decrease in the average math score, while the average reading score slightly increased. However, the percentage passing math, reading, and overall passing percentage dropped significantly.
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
